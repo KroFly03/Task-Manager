@@ -1,7 +1,5 @@
 # Task-Manager
 
-Test task - task manager
-
 ## Requirements
 
 * Docker version 23.0.6
